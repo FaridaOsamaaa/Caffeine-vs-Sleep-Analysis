@@ -1,4 +1,4 @@
-# Caffeine vs Sleep
+# Caffeine vs Sleep Analysis
 
 ## Project Overview
 
