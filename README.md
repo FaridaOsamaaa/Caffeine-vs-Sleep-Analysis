@@ -1,19 +1,20 @@
 # Caffeine vs Sleep Analysis
 
-## Project Overview
+## Overview
+This project explores the relationship between caffeine consumption and sleep patterns using data analysis techniques.
 
-In this project, we studied how caffeine consumption can affect sleep habits, especially for students. The data was collected using a Google Form survey. It includes information such as age, number of sleep hours, sleep quality, and how much caffeine each person consumes daily.
+## Objectives
+- Analyze how caffeine intake affects sleep duration and quality
+- Perform statistical and visual analysis of the dataset
+- Identify possible correlations between variables
 
-## Analysis
+## Tools & Technologies
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib / Seaborn
 
-We analyzed the data using Python to find patterns between caffeine intake and sleep. We also used graphs to better understand the results.
+## Key Findings
+- Higher caffeine intake may correlate with reduced sleep duration
+- Timing of caffeine consumption impacts sleep quality
 
-## Tools Used
-
-Python, Pandas, Matplotlib
-
-## Key Results
-
-From the analysis, we noticed that people who drink more caffeine tend to sleep fewer hours or have lower sleep quality.
-
-However, the relationship is not very strong, which means other factors may also affect sleep.
